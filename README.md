@@ -21,3 +21,5 @@ External API's:
 
 *: A horde game is an unpopular gamemode which consists of waves of enemies that get increasingly harder, one of the most poplar
 examples is CoD: Zombies
+
+P.S: The project is left unfinished, since UNET is outdated and impractical.
